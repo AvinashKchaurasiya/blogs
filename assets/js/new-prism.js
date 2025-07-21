@@ -1,6 +1,3 @@
-/* PrismJS 1.14.0
-http://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+markup-templating+json+php+typescript+scss&plugins=line-numbers+toolbar+previewers+normalize-whitespace+copy-to-clipboard */
-
 var _self =
   typeof window !== "undefined"
     ? window // if in browser
